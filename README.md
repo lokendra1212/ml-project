@@ -22,4 +22,3 @@
 
 [Class 2,3,4 -->](https://drive.google.com/open?id=1MWLGbv82_aEZo3h84pQAMRHkvCvsWSkA)
 
-*- Class 1 of the dataset is missing, since its resources got irrevocably removed from the drive by a colleague*
